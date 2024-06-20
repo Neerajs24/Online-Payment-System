@@ -27,14 +27,7 @@ A user-friendly dashboard provides an overview of recent transactions and quick 
 Navigation: Easy navigation links to make payments, view transaction history, and log out.
 
 # Technologies Used
-# HTML: 
-For structuring the web pages and ensuring semantic correctness.
-
-# CSS: 
-For styling the application and making it visually appealing. The use of Flexbox and Grid for layout management.
-
-# JavaScript: 
-For adding interactivity and handling client-side logic.
-
-# Local Storage: 
-For storing user data and transactions persistently.
+HTML: For structuring the web pages and ensuring semantic correctness.
+CSS: For styling the application and making it visually appealing. The use of Flexbox and Grid for layout management.
+JavaScript: For adding interactivity and handling client-side logic.
+Local Storage: For storing user data and transactions persistently.
